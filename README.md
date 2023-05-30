@@ -1,2 +1,2 @@
-# RoughVolThesis
-Code implementation for our thesis on Rough Volatility
+# Rough Volatility Thesis
+Code implementation for our thesis on Rough Volatility.
